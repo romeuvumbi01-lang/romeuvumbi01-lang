@@ -1,5 +1,3 @@
-E olha oque ele mandou mais : 
-
 # Hi there, I'm Romeu Vumbi 👋
 
 🎓 **IT Professional in Training | Python Programmer | Aspiring Cybersecurity Professional**
