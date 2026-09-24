@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Romeu Vumbi 👋
 
-<!--
-**romeuvumbi01-lang/romeuvumbi01-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An ambitious Cybersecurity Specialist in training, Python Developer, and IT Administrative Professional. I combine technical skills in programming, network fundamentals, and graphic design to build efficient tools and solve real-world digital problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Qualifications & Certifications
+- **Diplôme d'État (D6)** — Secondary Education Diploma
+- **International Certifications** — IT & Graphic Design
+- **TryHackMe Learning Path** — Hands-on Ethical Hacking, Linux Administration & Security Fundamentals
+
+---
+
+### 🛠️ Technical Skills & Tools
+- **Programming & Scripting:** Python (Automation, Problem Solving), Bash Basics
+- **Operating Systems & Security:** Linux, Windows, Systems Administration, Network Security Fundamentals
+- **Digital Administration & Design:** Adobe Photoshop, Canva, Document Layout Standards, Advanced Office Suite (Word, PDFgear, Mathpix)
+- **AI-Driven Workflows:** Advanced prompt engineering and technical study using LLMs (Gemini, ChatGPT, DeepSeek)
+
+---
+
+### 🌐 Languages
+- **French** (Fluent)
+- **Portuguese** (Fluent)
+- **English** (Professional/Technical)
+- **Lingala & Kikongo** (National Languages)
+
+---
+
+### 🔭 Current Focus & Goals
+- 🐍 Building open-source Python automation tools and scripts for GitHub.
+- 🛡️ Completing practical security modules on TryHackMe.
+- 🎓 Preparing for higher education and scholarship opportunities in Cybersecurity in Canada.
+
+---
+
+📫 **Connect with me:** Open for collaborations, technical discussions, and professional opportunities!
