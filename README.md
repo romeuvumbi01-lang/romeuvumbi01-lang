@@ -6,7 +6,7 @@ An ambitious Cybersecurity Specialist in training, Python Developer, and IT Admi
 
 ### 🎓 Qualifications & Certifications
 - **Diplôme d'État (D6)** — Secondary Education Diploma
-- **International Certifications** — IT & Graphic Design
+- **International Certifications** — IT & Microsoft Office 
 - **TryHackMe Learning Path** — Hands-on Ethical Hacking, Linux Administration & Security Fundamentals
 
 ---
@@ -14,7 +14,7 @@ An ambitious Cybersecurity Specialist in training, Python Developer, and IT Admi
 ### 🛠️ Technical Skills & Tools
 - **Programming & Scripting:** Python (Automation, Problem Solving), Bash Basics
 - **Operating Systems & Security:** Linux, Windows, Systems Administration, Network Security Fundamentals
-- **Digital Administration & Design:** Adobe Photoshop, Canva, Document Layout Standards, Advanced Office Suite (Word, PDFgear, Mathpix)
+- **Digital Administration & Design:** Adobe Photoshop, Canva, Document Layout Standards, Advanced Office Suite (Word, Excel, Powerpoint, Outlook, Acesss, Publisher)
 - **AI-Driven Workflows:** Advanced prompt engineering and technical study using LLMs (Gemini, ChatGPT, DeepSeek)
 
 ---
@@ -23,7 +23,6 @@ An ambitious Cybersecurity Specialist in training, Python Developer, and IT Admi
 - **French** (Fluent)
 - **Portuguese** (Fluent)
 - **English** (Professional/Technical)
-- **Lingala & Kikongo** (National Languages)
 
 ---
 
